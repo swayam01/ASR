@@ -1,5 +1,5 @@
 # ASR
-Link to download Trained Model (unzip and place it inside this folder)
+Link to download Trained Model: https://drive.google.com/open?id=1ieYoLSIzin4uHL0QCo7KaAiHXVtBtXBf (unzip and place it inside this folder)
 ## Install via pip
 - Python >= 3.6
 - Tensorflow = 1.14
